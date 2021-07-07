@@ -25,7 +25,7 @@ Use the following command to run the server
 ```
 python manage.py runserver
 ```
-Use the following command to create an admin user 
+Use the following command to create an admin user & follow the instructions at the cmd prompt
 ```
 python manage.py createsuperuser
 ```
